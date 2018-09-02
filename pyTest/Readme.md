@@ -5,9 +5,9 @@
 ```shell
 python  
 ```  
-![交互式](.\getinpythonmutual.PNG)  
+![交互式](getinpythonmutual.PNG)  
 2. 脚本式编程  
 ```shell
 python xxx.py
 ```
-![脚本式](.\scriptprogram.PNG)  
+![脚本式](scriptprogram.PNG)  
